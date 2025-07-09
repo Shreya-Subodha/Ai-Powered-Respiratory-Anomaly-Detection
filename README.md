@@ -40,5 +40,5 @@ Traditional respiratory diagnostics rely on multiple time-consuming tests and su
 Supports faster and more accurate triaging by reducing reliance on manual auscultation and slow diagnostics. Especially valuable in **primary care, rural health setups, and mobile clinics**.
 
 Built by:
-Kruthika S, Nishevithaa Gayatri T S, Shreya Subodha
+Kruthika S, Nishevithaa Gayatri T S, Shreya Subodha,
 Department of Medical Electronics, Dayananda Sagar College of Engineering
